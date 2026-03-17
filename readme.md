@@ -18,9 +18,9 @@ The project follows a **modern data warehouse architecture**:
 
 * **Bronze Layer** → Raw data ingestion from source systems
 * **Silver Layer** → Data cleaning, transformation, and standardization
-* **Gold Layer** → Business-ready dimensional models
+* **Gold Layer** → Business-ready dimensional model
 
-📌 Refer to `docs/architecture/data_architecture.png`
+  ![Architecture](doc/architecture/data_architecture_.png)
 
 ---
 
