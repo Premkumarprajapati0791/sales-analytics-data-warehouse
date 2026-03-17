@@ -118,16 +118,6 @@ sales-analytics-data-warehouse
 
 ---
 
-## 🧪 Data Quality Checks
-
-* Validation scripts for Silver & Gold layers
-* Ensures:
-
-  * No duplicate records
-  * No null key fields
-  * Data consistency across layers
-
----
 
 ## 🧠 Key Skills Demonstrated
 
